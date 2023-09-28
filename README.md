@@ -1,5 +1,5 @@
 # SINGLE-CYCLED-MIPS-PROCESSOR-
-// this mips can do the following instructions :
+## this mips can do the following instructions :
 //and
 //or
 nor
